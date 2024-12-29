@@ -36,6 +36,7 @@ This Python script allows you to encrypt PDF files with a numeric password. The 
    Clone the repository:
    ```bash
    git clone https://github.com/GET-UNKNOWN-ERR0R/pdf-encryptor.git
+   cd pdf-encryptor
    ```
    Directly use these commands
 
