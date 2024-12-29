@@ -3,7 +3,11 @@ This Python script allows you to encrypt PDF files with a numeric password. The 
 
 ### OUTPUT-
 
-![image](encrypt.png)
+![image](image1.png)
+
+Looking for output
+
+![image](image2.png)
 
 ## Features
 
