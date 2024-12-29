@@ -1,7 +1,5 @@
 #!/bin/bash
-
-# Clone the repository
-git clone https://github.com/GET-UNKNOWN-ERR0R/pdf-encryptor.git
+# Change dir
 cd pdf-encryptor
 
 # Install the required library
